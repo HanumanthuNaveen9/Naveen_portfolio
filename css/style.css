@@ -1,0 +1,90 @@
+.menu{
+    height: 8%;
+    width: 100%;
+    color: white;
+    float: left;
+    font-size: large;
+    background-color: rgb(231, 226, 220);
+    padding: 1px;
+    text-align: center;
+
+}
+.ld{
+    background-color: rgb(10, 6, 1);
+    float: left;
+    width: 30%;
+    height: 3000%;
+    color: blanchedalmond;
+    text-align: center;
+    
+}
+.rd{
+    background-color: rgb(10, 6, 1);
+    float: left;
+    width: 66%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: large;
+   color: blanchedalmond;
+}
+div { 
+    padding : 1%; 
+    color: white; 
+    width: 47.3%;
+    
+}
+.prof-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    background-color: white;
+    border-width: 4px;
+    border-radius: 50%;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70%;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  .fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-instagram {
+    background:rgb(228, 90, 27);
+    color: white;
+  }
+  body{
+      background-color: rgb(10, 6, 1);
+  }
+  .fa-github{
+    background:rgb(229, 227, 226);
+    color: rgb(12, 1, 1);
+  }
+  .cer{
+    background-color: rgb(10, 6, 1);
+    width: 100%;
+    text-align: center;
+  }
+  .footer{
+    text-align: center;
+    float: left;
+    width: 100%;
+    color: black;
+    background-color: rgb(231, 226, 220);
+}
